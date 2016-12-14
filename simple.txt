@@ -4,3 +4,6 @@ mkdir basic_repo
 git init
 touch index.html blah.txt
 open blah.txt
+git add blah.txt index.html simple.txt
+git commit -m "initial commit"
+open blah.txt
