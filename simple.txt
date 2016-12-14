@@ -1,0 +1,6 @@
+New repository on github.com
+cd Desktop
+mkdir basic_repo
+git init
+touch index.html blah.txt
+open blah.txt
